@@ -84,6 +84,7 @@ const App = () => {
               numQuestions={numQuestions}
               points={points}
               maximumPossiblePoints={maximumPossiblePoints}
+              answer={answer}
             />
             <Question
               question={questions[index]}
