@@ -172,7 +172,7 @@ progress {
 }
 
 .answer {
-  transform: translateX(2.5rem);
+  transform: translateX(2rem);
 }
 
 .result {
@@ -187,7 +187,7 @@ progress {
 }
 
 .result span {
-  font-size: 2.2rem;
+  font-size: 2rem;
   margin-right: 4px;
 }
 
